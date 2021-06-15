@@ -5,10 +5,7 @@ public class Employee {
   
     public Employee() {}
   
-    // Parameterized Constructor
-    // to assign the values
-    // to the properties of
-    // the entity
+   
      public Employee(
         Integer id, String firstName,
         String lastName, String email)
